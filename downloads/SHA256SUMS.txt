@@ -1,0 +1,1 @@
+d1dc029d4612209bf7f1390ccc33e16fc3f57d7cba5e55ba679cb0bc84745dda  CompatibleZip-1.1.1-macOS-universal.zip

@@ -6,7 +6,7 @@
 
 ## 下载和安装
 
-在 [Releases](https://github.com/ForCattttt/compatible-zip/releases/latest) 下载 `CompatibleZip-1.1.1-macOS-universal.zip`，解压后：
+下载 [CompatibleZip-1.1.1-macOS-universal.zip](https://github.com/ForCattttt/compatible-zip/raw/refs/tags/v1.1.1/downloads/CompatibleZip-1.1.1-macOS-universal.zip)（[SHA-256 校验值](downloads/SHA256SUMS.txt)），版本说明见 [Releases](https://github.com/ForCattttt/compatible-zip/releases/latest)。解压后：
 
 1. 把 `兼容压缩.app` 放入个人目录的 `Applications` 文件夹（`~/Applications`，没有则新建）。
 2. 双击应用选择文件，或把文件、文件夹拖到应用图标上。
